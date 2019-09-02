@@ -212,7 +212,7 @@ body {
     left: 0;
     right: 0;
     width: 90%;
-    height: 10px;
+    height: 11px;
     margin: auto;
 }
 
@@ -244,7 +244,7 @@ body {
     left: 0;
     right: 0;
     width: 90%;
-    height: 10px;
+    height: 11px;
     margin: auto;
 }
 
@@ -276,7 +276,7 @@ body {
     left: 0;
     right: 0;
     width: 90%;
-    height: 10px;
+    height: 11px;
     margin: auto;
 }
 
@@ -438,6 +438,46 @@ body {
         font-size: 1.2em;
     }
 
+    .turret1_floor {
+        height: 10px;
+    }
+
+    .turret2_floor {
+        height: 10px;
+    }
+
+    .turret3_floor {
+        height: 10px;
+    }
+
+    .block1 {
+        height: 31px;
+    }
+
+    .block2 {
+        height: 31px;
+    }
+
+    .block3 {
+        height: 31px;
+    }
+
+    .block4 {
+        height: 31px;
+    }
+
+    .block5 {
+        height: 31px;
+    }
+
+    .block6 {
+        height: 31px;
+    }
+
+    .turret_block_catch {
+        height: 36px;
+    }
+
     /* Styles */
 }
 
@@ -448,6 +488,46 @@ body {
         width: 763px;
         height: 802px;
         font-size: 1.2em;
+    }
+
+    .turret1_floor {
+        height: 10px;
+    }
+
+    .turret2_floor {
+        height: 10px;
+    }
+
+    .turret3_floor {
+        height: 10px;
+    }
+
+    .block1 {
+        height: 31px;
+    }
+
+    .block2 {
+        height: 31px;
+    }
+
+    .block3 {
+        height: 31px;
+    }
+
+    .block4 {
+        height: 31px;
+    }
+
+    .block5 {
+        height: 31px;
+    }
+
+    .block6 {
+        height: 31px;
+    }
+
+    .turret_block_catch {
+        height: 36px;
     }
 
     /* Styles */
@@ -461,6 +541,48 @@ body {
         height: 802px;
         font-size: 1.2em;
     }
+
+    .turret1_floor {
+        height: 10px;
+    }
+
+    .turret2_floor {
+        height: 10px;
+    }
+
+    .turret3_floor {
+        height: 10px;
+    }
+
+    .block1 {
+        height: 31px;
+    }
+
+    .block2 {
+        height: 31px;
+    }
+
+    .block3 {
+        height: 31px;
+    }
+
+    .block4 {
+        height: 31px;
+    }
+
+    .block5 {
+        height: 31px;
+    }
+
+    .block6 {
+        height: 31px;
+    }
+
+    .turret_block_catch {
+        height: 36px;
+    }
+
+
 
     /* Styles */
 }
@@ -478,6 +600,46 @@ body {
         flex-direction: column;
     }
 
+    .turret1_floor {
+        height: 3px;
+    }
+
+    .turret2_floor {
+        height: 3px;
+    }
+
+    .turret3_floor {
+        height: 3px;
+    }
+
+    .block1 {
+        height: 9.5px;
+    }
+
+    .block2 {
+        height: 9.5px;
+    }
+
+    .block3 {
+        height: 9.5px;
+    }
+
+    .block4 {
+        height: 9.5px;
+    }
+
+    .block5 {
+        height: 9.5px;
+    }
+
+    .block6 {
+        height: 9.5px;
+    }
+
+    .turret_block_catch {
+        height: 10.5px;
+    }
+
     /* Styles */
 }
 
@@ -493,6 +655,47 @@ body {
     .game_box {
         flex-direction: column;
     }
+
+    .turret1_floor {
+        height: 3px;
+    }
+
+    .turret2_floor {
+        height: 3px;
+    }
+
+    .turret3_floor {
+        height: 3px;
+    }
+
+    .block1 {
+        height: 9.5px;
+    }
+
+    .block2 {
+        height: 9.5px;
+    }
+
+    .block3 {
+        height: 9.5px;
+    }
+
+    .block4 {
+        height: 9.5px;
+    }
+
+    .block5 {
+        height: 9.5px;
+    }
+
+    .block6 {
+        height: 9.5px;
+    }
+
+    .turret_block_catch {
+        height: 10.5px;
+    }
+
 
     /* Styles */
 }
