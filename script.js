@@ -391,6 +391,6 @@ function win() {
     //TODO odtworz dzwiek win
     win_audio.play();
 
-    game_id.innerHTML = '<p class="win">Gratulację! Ułożyłeś Wieżę Hanoi z <span style="color: #dfc76e">' + how_many_blocks + '</span> bloków! Twoja ilość ruchów to <span style="color: #dfc76e">' + score + '</span>, a twój czas to <span style="color: #dfc76e">' + minutes + ',' + seconds + 'min</span>.</p>';
+    game_id.innerHTML = '<p class="win">Gratulację! Ułożyłeś/aś Wieżę Hanoi z <span style="color: #dfc76e">' + how_many_blocks + '</span> bloków! Twoja ilość ruchów to <span style="color: #dfc76e">' + score + '</span>, a twój czas to <span style="color: #dfc76e">' + minutes + ',' + seconds + 'min</span>.</p>';
 
 } // end win()

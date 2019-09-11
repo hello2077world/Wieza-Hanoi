@@ -647,7 +647,7 @@ body {
   ##Screen = B/w 320px to 479px */
 @media (min-width: 320px) and (max-width: 480px) {
     #container {
-        width: 315px;
+        width: 95%;
         height: 802px;
         font-size: 0.84em;
     }
